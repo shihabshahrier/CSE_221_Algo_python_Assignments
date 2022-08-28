@@ -1,0 +1,51 @@
+Student: 1
+Course: 1
+Marks of Mid and Final: 
+30 25 
+
+Course: 2
+Marks of Mid and Final: 
+35 40 
+
+Course: 3
+Marks of Mid and Final: 
+41 45 
+
+Course: 4
+Marks of Mid and Final: 
+26 26 
+
+Student: 2
+Course: 1
+Marks of Mid and Final: 
+41 45 
+
+Course: 2
+Marks of Mid and Final: 
+43 47 
+
+Course: 3
+Marks of Mid and Final: 
+49 44 
+
+Course: 4
+Marks of Mid and Final: 
+46 47 
+
+Student: 3
+Course: 1
+Marks of Mid and Final: 
+10 15 
+
+Course: 2
+Marks of Mid and Final: 
+35 20 
+
+Course: 3
+Marks of Mid and Final: 
+11 17 
+
+Course: 4
+Marks of Mid and Final: 
+29 16 
+
